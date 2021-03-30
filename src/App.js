@@ -10,7 +10,7 @@ function App() {
     {
       fullName: 'Zahra',
       bio: "This me",
-      profession:" Jr Developper",
+      profession:" Js Developper",
       }
 ];
   return (
